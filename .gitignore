@@ -1,0 +1,8 @@
+.DS_Store
+*.app/
+.idea/
+test/
+build/
+.dart_tool/
+.metadata
+*lovefcaaa*
